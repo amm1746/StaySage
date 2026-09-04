@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/staysage/__init__.py
+src/staysage.egg-info/PKG-INFO
+src/staysage.egg-info/SOURCES.txt
+src/staysage.egg-info/dependency_links.txt
+src/staysage.egg-info/top_level.txt
+src/staysage/api/__init__.py

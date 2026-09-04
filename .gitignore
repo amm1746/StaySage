@@ -1,0 +1,21 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+data/raw/
+data/processed/
+*.csv
+*.csv.gz
+*.parquet
+
+models/*
+!models/.gitkeep
+
+node_modules/
+web/dist/
+
+.env
+.DS_Store
