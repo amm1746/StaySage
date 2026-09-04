@@ -6,4 +6,4 @@ StaySage predicts what a short-term rental will cost for your trip, compares it 
 
 **Status:** in development
 
-Built with Python, LightGBM, FastAPI, React, and Tailwind 
+Built with Python, LightGBM, FastAPI, React, and Tailwind  
